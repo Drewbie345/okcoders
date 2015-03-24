@@ -7,7 +7,15 @@ JavaScript Activities
 
 3. Write a JavaScript program that prompts the user twice – one for their first name, and one for their last name – and alerts a greeting with both names in the message, with their last name in all uppercase.
 
-4. EXTENSION: Write a simplified restaurant reservation directory. See instructions below.
+4. Write a JavaScript program that prompts the user for a number:
+
+  * If the number is divisible by 7, alert a lucky message.
+
+  * If the number is even, alert that they are an even steven.
+  
+  * HINT: try googling 'javascript check if number is even' and use the same technique you find for divisible by 7.
+
+5. EXTENSION: Write a simplified restaurant reservation directory. See instructions below.
 
   * Assign three variables to three different names (We'll call each of these a reservation).
 
