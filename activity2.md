@@ -9,17 +9,17 @@ JavaScript Activities
 
 4. EXTENSION: Write a simplified restaurant reservation directory. See instructions below.
 
-* Assign three variables to three different names
+  * Assign three variables to three different names
 
-* We'll call each of these a reservation
+  * We'll call each of these a reservation
 
-* Prompt the user for a name
+  * Prompt the user for a name
 
-* If the name is a reservation, welcome the user and mark the reservation as claimed
+  * If the name is a reservation, welcome the user and mark the reservation as claimed
 
-* If the name is a claimed reservation, tell the user that reservation has already been taken
+  * If the name is a claimed reservation, tell the user that reservation has already been taken
 
-* Otherwise, tell the user they need to make a reservation
+  * Otherwise, tell the user they need to make a reservation
 
 Since we have not properly learned functions yet, you will use a while loop instead. Use the following for your program structure:
 
