@@ -1,11 +1,9 @@
 HTML Activity #1
 ================
 
-Getting Started:
-
 1. Create an unordered list with 4 list items (Google, Yahoo, Twitter, Facebook) that link to their respective URLs using the `<a href>` tag.
 
-Your mission: Create a bio web page about yourself.
+2. Your mission: Create a bio web page about yourself.
 
 Below are some HTML tags that you can use to get started. Use Google to find 3 tags that I haven't listed and use those as well. 
 
