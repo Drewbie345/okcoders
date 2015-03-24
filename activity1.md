@@ -27,6 +27,7 @@ Below are some HTML tags that you can use to get started. Use Google to find 3 t
 ````
 
 Questions to consider:
+
 1. What is the difference between block elements and inline elements? Give examples of each.
 
 2. What does the `<div>` tag do?
