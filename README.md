@@ -13,4 +13,6 @@ Table of Contents:
   * JavaScript Activity 1
     * JavaScript Activity 1 Solutions
   * JavaScript Activity 2
+  * JavaScript Activity 3
   * JavaScript Challenge 1
+    * JavaScript Challenge 1 Solutions - Part 1
