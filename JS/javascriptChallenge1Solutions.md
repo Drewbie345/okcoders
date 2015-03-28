@@ -1,0 +1,1 @@
+javascriptChallenge1Solutions.md
