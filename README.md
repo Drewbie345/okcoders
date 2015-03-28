@@ -7,8 +7,10 @@ Table of Contents:
   * HTML Activity 1
     * HTML Activity 1 Solutions
   * CSS Activity 1
+  * CSS Activity 2
   * HTML Template Code
 2. JS
   * JavaScript Activity 1
     * JavaScript Activity 1 Solutions
   * JavaScript Activity 2
+  * JavaScript Challenge 1
