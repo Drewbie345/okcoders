@@ -3,6 +3,35 @@ Advanced CSS Activity
 
 You have seen the power of CSS classes and ids, but did you know that you can style a page without any classes or ids?
 
+````html
+  <!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <title>More Advanced CSS</title>
+            <style>
+              /* This first style uses a CSS id */
+              #first {
+                color: blue;
+              }
+
+              /* But this second style uses a different type of CSS selector; it selects every <h1> element that is the second child of its parent */
+              h1:nth-child(2) {
+                color: red;
+              }
+            </style>
+        </head>
+        <body>
+          <div>
+            <h1 id="first">My First Heading</h1>
+            <h1>My Second Heading</h1>
+            <h1>My Third Heading</h1>
+          </div>
+        </body>
+    </html>
+````
+
+To see a more complete list of CSS selectors, check out this [cheat sheet](http://www.cheetyr.com/css-selectors).
 
 TRY IT OUT:
 
