@@ -1,7 +1,7 @@
 HTML TEMPLATE
 =============
 
-The code below will help you get started. 
+The code below will help you get started with any project. 
 
 ````html
 <!DOCTYPE html>
