@@ -10,7 +10,7 @@ if (color === 'blue') {
 ````
   * What would be alerted if the color variable was 'blue'?
   * What would be alerted if the color variable was 'yellow'?
-  * add an if/else statement so that a string will be alerted no matter what the color is.
+  * Add an if/else statement so that a string will be alerted no matter what the color is picked.
 
 2. Consider the following if/else if statement...
 
