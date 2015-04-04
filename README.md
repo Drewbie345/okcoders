@@ -15,5 +15,7 @@ Table of Contents:
   * JavaScript Activity 2
   * JavaScript Activity 3
     * numberGuessingGame
+  * JavaScript Review
+  * JavaScript Activity 4
   * JavaScript Challenge 1
     * JavaScript Challenge 1 Solutions - Part 1
