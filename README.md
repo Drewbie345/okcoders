@@ -26,3 +26,5 @@ Table of Contents:
   * JavaScript Activity 5 - Revise the Restaurant Reservation System
   * JavaScript Challenge 1
     * JavaScript Challenge 1 Solutions - Part 1
+3. CLI
+  * Activity 1 - Command Line/Git
