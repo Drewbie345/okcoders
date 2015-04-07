@@ -9,6 +9,12 @@ Table of Contents:
   * CSS Activity 1
   * CSS Activity 2
   * HTML Template Code
+  * Project 1 - Recreate a Site
+    * Instructions.md
+    * eterna.jpg
+    * background.jpg
+    * iMac.png
+    * logo.png
 2. JS
   * JavaScript Activity 1
     * JavaScript Activity 1 Solutions
@@ -16,6 +22,7 @@ Table of Contents:
   * JavaScript Activity 3
     * numberGuessingGame
   * JavaScript Review
-  * JavaScript Activity 4
+  * JavaScript Activity 4 - Objects
+  * JavaScript Activity 5 - Revise the Restaurant Reservation System
   * JavaScript Challenge 1
     * JavaScript Challenge 1 Solutions - Part 1
