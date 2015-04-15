@@ -1,8 +1,8 @@
 JavaScript Functions
 ====================
 
-The Fortune Teller
-------------------
+  The Fortune Teller
+  ------------------
 
 1. Why pay a fortune teller when you can just program your fortune yourself?
 
@@ -11,8 +11,8 @@ The Fortune Teller
     * outputs your fortune to the screen like so: "You will be a X in Y, and married to Z with N kids."
   * Call that function 3 times with 3 different values for the arguments.
 
-The Age Calculator
-------------------
+  The Age Calculator
+  ------------------
 
 2. Forgot how old you are? Calculate it!
 
@@ -23,8 +23,8 @@ The Age Calculator
   * Call the function three times with different sets of values.
   * Bonus: Figure out how to get the current year in JavaScript instead of passing it in. 
 
-The Lifetime Supply Calculator
-------------------------------
+  The Lifetime Supply Calculator
+  ------------------------------
 
 3. Ever wonder how much a "lifetime supply" of your favorite snack is? Wonder no more!
 
@@ -35,8 +35,8 @@ The Lifetime Supply Calculator
   * Call that function three times, passing in different values each time.
   * Bonus: Accept floating point values for amount per day, and round the result to a round number.
 
-The Geometrizer
----------------
+  The Geometrizer
+  ---------------
 
 4. Create 2 functions that calculate properties of a circle.
 
