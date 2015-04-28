@@ -6,6 +6,7 @@ I will walk you through the steps to getting an express app up and running. Foll
 1. Create a new folder (try using the command line!). I'm calling mine "express-sample-project". 
 ```bash
 mkdir express-sample-project
+cd express-sample-project
 ```
 
 2. Create a file in the folder called "package.json".
@@ -38,4 +39,14 @@ touch server.js
 ```js
 var express = require('express');
 var app = express();
+
+app.get('/', function(req, res) {
+  res.send('Hello World!');
+});
+
+var server = app.listen(3000, function() {
+  var port = server.address().port;
+
+  console.log('This awesomely cool app is listening at: ' + port);
+});
 ```
