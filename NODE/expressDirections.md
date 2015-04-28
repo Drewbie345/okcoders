@@ -47,6 +47,15 @@ app.get('/', function(req, res) {
 var server = app.listen(3000, function() {
   var port = server.address().port;
 
-  console.log('This awesomely cool app is listening at: ' + port);
+  console.log('This wicked cool app is listening at: ' + port);
 });
 ```
+
+The app starts a server and listens on port 3000 for connection.
+
+7. To start your app...in the terminal, run the following command:
+```
+node app.js
+```
+
+8. Open a browser window and navigate to http://localhost:3000
