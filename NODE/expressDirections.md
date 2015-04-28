@@ -2,7 +2,7 @@ Express Project Instructions
 ============================
 
 1. Create a new folder (try using the command line!). I'm calling mine "express-sample-project".
-```shell
+```bash
 mkdir express-sample-project
 ```
 
