@@ -28,3 +28,5 @@ Table of Contents:
     * JavaScript Challenge 1 Solutions - Part 1
 3. CLI
   * Activity 1 - Command Line/Git
+4. NODE
+  * Activity 1 - Node 101
