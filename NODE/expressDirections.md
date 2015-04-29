@@ -1,4 +1,4 @@
-Express Project Instructions
+Express Directions - Part 1
 ============================
 
 I will walk you through the steps to getting an express app up and running. Follow along on your computer. I am using the 'Hello World' example from the Express website.
@@ -55,7 +55,7 @@ The app starts a server and listens on port 3000 for connection.
 
 7. To start your app...in the terminal, run the following command:
 ```
-node app.js
+node server.js
 ```
 
 8. Open a browser window and navigate to http://localhost:3000
