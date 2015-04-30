@@ -89,3 +89,11 @@ form
       input(type='checkbox') Check me out
   button.btn.btn-default(type='submit') Submit
 ```
+
+3. Create an Express project from scratch (refer to the Express Directions #1 & #2).
+
+4. Add three views to your Express project (use your newfound knowledge of Jade). Use Bootstrap to style your pages.
+  For instance:
+    * Homepage
+    * Photo Gallery Page
+    * Contact Form
