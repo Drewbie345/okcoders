@@ -93,7 +93,8 @@ The [Jade website](http://jade-lang.com/) is a great resource for learning about
 3. Create an Express project from scratch (refer to the Express Directions #1 & #2).
 
 4. Add three views to your Express project (use your newfound knowledge of Jade). Use Bootstrap to style your pages.
-  For instance:
+
+For instance:
   * Homepage
   * Photo Gallery Page
   * Contact Form
