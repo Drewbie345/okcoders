@@ -5,7 +5,7 @@ Jade is a templating engine for node.js and is the default rendering engine for 
 
 Spacing is a big deal with Jade. Use 2 spaces for tabs and you will be good!
 
-The (Jade website)[http://jade-lang.com/] is a great resource for learning about Jade.
+The [Jade website](http://jade-lang.com/) is a great resource for learning about Jade.
 
 1. Convert the following HTML code into Jade.
 
