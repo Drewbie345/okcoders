@@ -94,6 +94,6 @@ The [Jade website](http://jade-lang.com/) is a great resource for learning about
 
 4. Add three views to your Express project (use your newfound knowledge of Jade). Use Bootstrap to style your pages.
   For instance:
-    * Homepage
-    * Photo Gallery Page
-    * Contact Form
+  * Homepage
+  * Photo Gallery Page
+  * Contact Form
